@@ -18,11 +18,11 @@
 
 - 🧑‍🏫 Live, interactive sessions by expert educators
 
-- 📈 Practical learning with hands-on projects and assignments  
+- 📈 Practical learning with hands-on projects and assignments
 
-- 💡 Personalized support and real-time doubt-solving  
+- 💡 Personalized support and real-time doubt-solving
 
-- 🤝 Free access for underprivileged learners  
+- 🤝 Free access for underprivileged learners
 
 <br/>
 
@@ -32,34 +32,34 @@
 
 👉 Browse all courses: [tukkalearn.vercel.app/online-classes](https://tukkalearn.vercel.app/online-classes)
 
-- 📊 **Data Science** – Python, statistics, ML models & real-world projects  
-- 🤖 **AI & Machine Learning** – Beginner-friendly projects and ML algorithms  
-- 🌐 **Full Stack Development** – Frontend + Backend with live projects  
-- 💻 **Programming Languages** – C, C++, Java, Python, JavaScript  
-- 🧠 **Data Structures & Algorithms** – Interview prep & advanced patterns  
-- 📱 **Android Development** – Build Android apps with Java/Kotlin  
-- 🏆 **Competitive Programming** – Sharpen coding skills for contests  
-- 📈 **Power BI & Tableau** – Business dashboards & visual analytics  
-- 🗄️ **Database & Backend** – SQL, MySQL, MongoDB & NoSQL logic  
+- 📊 **Data Science** – Python, statistics, ML models & real-world projects
+
+- 🤖 **AI & Machine Learning** – Beginner-friendly projects and ML algorithms
+
+- 🌐 **Full Stack Development** – Frontend + Backend with live projects
+
+- 💻 **Programming Languages** – C, C++, Java, Python, JavaScript
+
+- 🧠 **Data Structures & Algorithms** – Interview prep & advanced patterns
+
+- 📱 **Android Development** – Build Android apps with Java/Kotlin
+
+- 🏆 **Competitive Programming** – Sharpen coding skills for contests
+
+- 📈 **Power BI & Tableau** – Business dashboards & visual analytics
+
+- 🗄️ **Database & Backend** – SQL, MySQL, MongoDB & NoSQL logic
 
 <br/>
 
 ---
-
-## 🛠️ Tech Stack
-
-| Frontend | Backend / Hosting | UI/UX                  |
-|----------|--------------------|------------------------|
-| React.js | Firebase, Vercel   | Tailwind CSS, Framer Motion |
-
-<br/>
 
 ---
 
 ## 📬 Contact Us
 
-📧 **Email:** tukkalearn@gmail.com  
+📧 **Email:** tukkalearn@gmail.com
+
 🔗 **GitHub:** [github.com/tukkaLearn](https://github.com/tukkaLearn)
 
 ---
-
